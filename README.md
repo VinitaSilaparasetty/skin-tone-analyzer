@@ -54,5 +54,5 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.vins.vinslookbook&hl=en">
-  <img width="200" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSojpFFWqTqH_wHsjAwe--ZdKXrsSNZBDWNNz4qK8fYRX_wK0Wb&usqp=CAU"> 
+  <img width="300" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSojpFFWqTqH_wHsjAwe--ZdKXrsSNZBDWNNz4qK8fYRX_wK0Wb&usqp=CAU"> 
 </p>
